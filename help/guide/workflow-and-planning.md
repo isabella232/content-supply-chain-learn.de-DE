@@ -1,27 +1,27 @@
 ---
-title: Workflow und Planung - Optimierung und Beschleunigung der Arbeit
-description: Für Unternehmen, die Schwierigkeiten haben, ihre Inhaltsanforderungen durch den Planungsprozess bis zur Inhaltserstellung und -fertigstellung zu verbinden und zu verfolgen. Mangelnde effiziente Prozesse, Planung, Validierungen und projektübergreifende Datenkonsistenz führen zu einer Verringerung der Produktivität und Effizienz der Inhaltslieferkette dieses Unternehmens.
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Creative Cloud, Workfront
-feature: Workflow, Asset Management, Asset Processing, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
-topic: Content Management, Collaboration
+title: Workflow- und Planungs-Tutorials
+description: Erstellen Sie optimierte und transparente Workflows für den gesamten Inhaltslebenszyklus.  Beschleunigen Sie den Review- und Genehmigungsprozess.  Automatisieren Sie manuelle Workflows.
+solution: Experience Cloud, Workfront, Creative Cloud
+feature-set: Creative Cloud, Workfront
+feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
+topic: Content Management, Collaboration, Artificial Intelligence
 role: Admin, User, Leader, Developer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: ac328c68438276c1c7b0a6ea66ef9e86d73fed5f
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 26%
+source-wordcount: '446'
+ht-degree: 28%
 
 ---
 
 
-# Workflow und Planung: Optimierung und Beschleunigung der Arbeit
+# Workflow- und Planungs-Tutorials
 
-Dies ist für das Unternehmen, das Schwierigkeiten hat, sich zu verbinden und seine Inhaltsanforderungen von der Planung über die Produktion bis zur Fertigstellung zu verfolgen. Mangelnde effiziente Prozesse, Planung, Validierungen und projektübergreifende Datenkonsistenz machen die Inhaltslieferkette dieses Unternehmens sowohl produktiv als auch effizient.
+Erstellen Sie optimierte und transparente Workflows für den gesamten Inhaltslebenszyklus.  Beschleunigen Sie den Review- und Genehmigungsprozess.  Automatisieren Sie manuelle Workflows.
 
-Die für die Planung und den Workflow verwendeten Adobe-Lösungen:
+Die für Workflow und Planung verwendeten Adobe-Lösungen:
 
 <table>
     <tr style="border: 0;">
@@ -33,19 +33,12 @@ Die für die Planung und den Workflow verwendeten Adobe-Lösungen:
         <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
         <strong>Frame.io</strong>
       </td>
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/aem-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>AEM Assets</strong>
-      </td>
     </tr>
 </table>
 
-## Primäre Geschäftsanwendungsfälle
-
-* Vereinfachung von Workflows und Genehmigungen
-* Optimieren der Ausgaben und Ressourcen
-* Größere Sichtbarkeit von Kapazitäten, Projekten, Risiken und Zeitplänen
-* Automatisieren nachgelagerter Prozesse, wie Metadaten-Tagging
+>[!TIP]
+>
+>Unser Adobe-Produktexpertenteam hat eine Reihe von Integrations-Tutorials für wichtige Anwendungsfälle der Inhaltsversorgungskette zusammengestellt. Wenn Sie mehr als eine Lösung verwenden, erfahren Sie, wie Sie sie am besten integrieren können!  Sehen Sie sich die [Tutorials zur Integration von Inhaltsversorgungsketten](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Empfohlene Kurse
 
