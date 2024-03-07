@@ -1,48 +1,55 @@
 ---
-title: Bereitstellung und Aktivierung - Power-Erlebnisse und Leistung
-description: Für das Unternehmen, das Unterstützung benötigt, um den richtigen Inhalt vor der richtigen Person auf dem richtigen Kanal zu erhalten. Die Content Supply Chain macht diese Verbindung besser als jede andere Lösung und bietet gleichzeitig die Analyse, um die Gesamtleistung des Inhalts sicherzustellen.
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites, Journey Optimizer, Creative Cloud
-feature: Asset Management, Asset Processing, Collaboration, Share, Performance Monitoring, Personalization, Channels Activity, Gen AI
-topic: Content Management, Collaboration, Personalization
+title: Versand- und Aktivierungstutorials
+description: Leistungsstarke Erlebnisse und Leistung von Inhalten und Kampagnen.  Schnelle Asset-Aktivierung und bessere Inhaltsleistung
+solution: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo, Target
+feature-set: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo Engage, Target
+topic: Content Management, Collaboration, Personalization, Artificial Intelligence
 role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14157
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: fecc107042220664ce5b76584f834a025844ef4b
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 45%
+source-wordcount: '610'
+ht-degree: 48%
 
 ---
 
 
-# Bereitstellung und Aktivierung: Power-Erlebnisse und Leistung
+# Versand- und Aktivierungstutorials
 
-Für das Unternehmen, das Unterstützung benötigt, um den richtigen Inhalt vor der richtigen Person auf dem richtigen Kanal zu erhalten. Die Content Supply Chain macht diese Verbindung besser als jede andere Lösung und bietet gleichzeitig die Analyse, um die Gesamtleistung des Inhalts sicherzustellen.
-
-## Primäre Geschäftsanwendungsfälle
-
-* Einfaches Auffinden und Wiederverwenden von Assets
-* Schnelles Erstellen und Veröffentlichen von wirkungsvollen Erlebnissen
-* Sofortiges Generieren und Testen der Kopie
-* Bereitstellen relevanter, personalisierter Erlebnisse über Kanäle hinweg
+Leistungsstarke Erlebnisse und Leistung von Inhalten und Kampagnen.  Schnelle Asset-Aktivierung und bessere Inhaltsleistung
 
 Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
-
 
 <table>
     <tr style="border: 0;">
       <td style="vertical-align: middle">
-        <p style="margin: 0"><img alt="Experience Manager Assets" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height:42px;"></p>
-        <strong>Experience Manager Assets</strong>
-      </td>
-      <td style="vertical-align: middle">
         <p style="margin: 0"><img alt="Experience Manager Sites" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
         <strong>Experience Manager Sites</strong>
       </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Adobe Campaign" src="/help/assets/ac-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Adobe Campaign</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Journey Optimizer" src="/help/assets/ajo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Journey Optimizer</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Marketo" src="/help/assets/marketo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Marketo</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Ziel" src="/help/assets/target-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Ziel</strong>
+      </td>
     </tr>
 </table>
+
+>[!TIP]
+>
+>Unser Adobe-Produktexpertenteam hat eine Reihe von Integrations-Tutorials für wichtige Anwendungsfälle der Inhaltsversorgungskette zusammengestellt. Wenn Sie mehr als eine Lösung verwenden, erfahren Sie, wie Sie sie am besten integrieren können!  Sehen Sie sich die [Tutorials zur Integration von Inhaltsversorgungsketten](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Tutorials
 
